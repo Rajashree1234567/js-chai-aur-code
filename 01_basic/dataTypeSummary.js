@@ -41,3 +41,8 @@ const myFun = function(){
 
 console.log(typeof myObj);
 
+
+// memory
+// 2types
+// stack (primitive) , heap (non primitive)
+
